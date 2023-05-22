@@ -1,26 +1,4 @@
-Full name:  Ansh Nagwekar, Alexander Zheng, Kavin Saravanan, Jeremey Zein
-SEAS login: zeinje, alexhz, nagwekar, kavins
+## Pennbook: A Mini, Scalable Facebook clone
+# Created by Ansh Nagwekar, Alexander Zheng, Kavin Saravanan, Jeremey Zein
+We created Pennbook for the final project of NETS 2120. It features a fully functional frontend built in ReactJS and backend written in Node and Express with DynamoDB as the database and AWS for hosting.
 
-Which milestone(s) are you submitting? (Please check only one!)
-  [X] PennBook Final Project
-
-Which features did you implement? 
-  (list features, or write 'Entire assignment')
-  Entire assignment
-
-Did you complete any extra-credit tasks? If so, which ones?
-  (list extra-credit tasks)
-  See Project Report for full description on EC tasks.
-
-Did you personally write _all_ the code you are submitting
-(other than code from the course web page)?
-  [X] Yes
-  [ ] No
-
-Did you copy any code from the Internet, or from classmates?
-  [ ] Yes
-  [X] No
-
-Did you collaborate with anyone on this assignment?
-  [ ] Yes
-  [X] No
